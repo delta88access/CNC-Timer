@@ -1,0 +1,1 @@
+// Deprecated - GitHub integration handled via direct redirect in App.tsx
